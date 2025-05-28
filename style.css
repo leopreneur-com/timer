@@ -53,7 +53,7 @@ body {
 /* Time left styles */
 #time-left {
   font-family: "Karla", sans-serif;
-  font-size: 10.375rem;
+  font-size: 25vw;
   font-weight: 800;
   text-align: center;
   margin-bottom: 1rem;
